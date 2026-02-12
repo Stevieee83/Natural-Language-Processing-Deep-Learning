@@ -6,7 +6,7 @@ main.py - Python script file to train and log the performance of the training wi
 
 model.py - nanoGPT or the Bigram Language transformer model from scratch in Python with PyTorch.
 
-The tiny_shakespere dataset is available from HuggingFace at: {\url{https://huggingface.co/datasets/karpathy/tiny_shakespeare}}
+The tiny_shakespere dataset is available from HuggingFace at: [input.txt](https://huggingface.co/datasets/karpathy/tiny_shakespeare)
 
 <br>
 
