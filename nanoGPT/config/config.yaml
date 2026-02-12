@@ -1,0 +1,19 @@
+# Hyperparameters
+training:
+  batch_size: 64             # How many independant sequences will we process in paalell (32)
+  block_size: 256            # What is the maximum context length for predictions? (8)
+  max_iters: 5000            # Number of training epochs/iterations
+  eval_interval: 500         # Printout or log performance after 500 epochs/iterations
+  learning_rate: 3e-4        # Self attention cannot tolerate very high learning rates, changed from 1e-2 to 1e-3 then 3e-4 after upscaling the model
+  eval_iters: 200            # Evaluate the model after the set amount of training iterations
+  n_embd: 384                # Transformer embedding size
+  n_head: 6                  # Number of transformer self attention heads
+  n_layer: 6                 # Number of transformer layers
+  dropout: 0.2               # Dropout to be configured in the transformer
+  seed: 42                   # Set the seed to repeat any randomness during experiments
+
+# Input and output file path directories
+directories:
+  text_file: input.txt      # Input text data filepath
+  model_path: bigram.pth    # Saved model weights state dictionary checkpoint file
+  log_dir: runs             # Stores the saved model weights file, Python script and the Hydra config file from the experiment run

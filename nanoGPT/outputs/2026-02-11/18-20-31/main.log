@@ -1,0 +1,30 @@
+[2026-02-11 18:20:31,342][__main__][INFO] - Config File
+[2026-02-11 18:20:31,342][__main__][INFO] - {'training': {'batch_size': 64, 'block_size': 256, 'max_iters': 5000, 'eval_interval': 500, 'learning_rate': 0.0003, 'eval_iters': 200, 'n_embd': 384, 'n_head': 6, 'n_layer': 6, 'dropout': 0.2, 'seed': 42}, 'directories': {'text_file': 'input.txt', 'model_path': 'bigram.pth', 'log_dir': 'runs'}}
+[2026-02-11 18:20:31,846][__main__][INFO] - Device: cuda
+[2026-02-11 18:20:56,908][__main__][INFO] - step 0: train loss 4.3102, val loss 4.3115
+[2026-02-11 18:23:00,884][__main__][INFO] - step 500: train loss 2.0221, val loss 2.0985
+[2026-02-11 18:25:05,389][__main__][INFO] - step 1000: train loss 1.6240, val loss 1.7982
+[2026-02-11 18:27:09,519][__main__][INFO] - step 1500: train loss 1.4517, val loss 1.6584
+[2026-02-11 18:29:13,621][__main__][INFO] - step 2000: train loss 1.3592, val loss 1.5935
+[2026-02-11 18:31:17,681][__main__][INFO] - step 2500: train loss 1.2880, val loss 1.5368
+[2026-02-11 18:33:21,705][__main__][INFO] - step 3000: train loss 1.2355, val loss 1.5074
+[2026-02-11 18:35:25,607][__main__][INFO] - step 3500: train loss 1.1953, val loss 1.4951
+[2026-02-11 18:37:29,530][__main__][INFO] - step 4000: train loss 1.1527, val loss 1.4845
+[2026-02-11 18:39:33,439][__main__][INFO] - step 4500: train loss 1.1184, val loss 1.4855
+[2026-02-11 18:41:12,604][__main__][INFO] - step 4999: train loss 1.1184, val loss 1.4855
+[2026-02-11 18:41:20,487][__main__][INFO] - 
+Marcius, florer, and come.
+
+First Lord:
+Madam, half you to redemptting, your mother,
+But her five warm will or our first. Come he's be cut you,
+Even this clear's top, being of penitence
+Out, by God, bid them tale of him, and pluck;
+Whom from the minds of the presence to wail and a
+sister of your highness' hands on the castle?
+
+BUCKINGHAM:
+Madam, he beneavourish'd in the oath bad,
+Be in his mean let hath gound his smoth and and
+Was his coloursed with a horrow;
+And the heavens and phurs ther blood
